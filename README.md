@@ -11,7 +11,7 @@ Step 2) Create and Add your contribution and commit.
 Step 3) Create Pull Request.
 
 
-Step 4)  Job Done! I will Accept all the Pull Request.
+Step 4)  Job Done! I will Accept all the Pull Request. 
 
 
 
