@@ -1,3 +1,0 @@
-UPDATE Employees
-SET Salary = 55000.00
-WHERE EmployeeID = 1;
