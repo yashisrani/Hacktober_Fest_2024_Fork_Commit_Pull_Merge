@@ -70,6 +70,9 @@ class calculatorGUI:
     
 def main():
     gui = calculatorGUI()
+    return gui
 
 if __name__ == "__main__":
-    main()
+    gui = main()
+    # Now you can access the gui object
+    gui
